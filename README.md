@@ -5,3 +5,4 @@
 * declaração de variáveis
 * entendendo vetor
 * entendendo Matrizes
+* calculos de média
